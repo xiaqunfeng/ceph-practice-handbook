@@ -1,3 +1,46 @@
-# My Awesome Book
+# ceph分布式存储实践指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## 概述
+
+* 目的
+
+本文档介绍了ceph集群下的分布式存储实践过程。
+
+* 面向对象
+
+本文档适合存储研发工程师、测试工程师、运维工程师阅读。
+
+## 系统环境
+
+系统版本：ubuntu 14.04
+
+ceph版本：jewel（10.2.5）
+
+## 特点
+
+文档中所有内容均来自自己实际操作，会详细给出每一步的运行步骤、输出结果和必要的截图，以及一些坑。
+
+## 章节计划
+
+一、集群部署
+
+二、操作OSD
+
+三、操作集群
+
+四、操作PG
+
+五、操作POOL
+
+六、管理Crushmap
+
+七、ceph的使用场景
+
+* RBD
+* RGW
+* ISCSI
+* NFS
+* RBD mirror
+
+
+
