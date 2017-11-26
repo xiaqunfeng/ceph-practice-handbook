@@ -6,4 +6,8 @@
 * [第二章、操作OSD](chapter2/README.md)
   * [常用操作](chapter2/2-1.md)
   * [查看和故障处理](chapter2/2-2.md)
+* [第三章、操作集群](chapter3/README.md)
+  * [基本操作](chapter3/3-1.md)
+  * [故障问题](chapter3/3-2.md)
+
 
