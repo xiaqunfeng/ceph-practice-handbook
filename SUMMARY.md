@@ -10,5 +10,7 @@
   * [基本操作](chapter3/3-1.md)
   * [故障问题](chapter3/3-2.md)
 * [第四章、操作PG](chapter4/README.md)
-
+* [第五章、操作POOL](chapter5/README.md)
+  * [创建、删除和查询](chapter5/5-1.md)
+  * [设置及快照](chapter5/5-2.md)
 
