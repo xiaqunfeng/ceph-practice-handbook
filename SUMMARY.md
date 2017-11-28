@@ -13,4 +13,8 @@
 * [第五章、操作POOL](chapter5/README.md)
   * [创建、删除和查询](chapter5/5-1.md)
   * [设置及快照](chapter5/5-2.md)
+* [第六章、管理Crush Map](chapter6/README.md)
+  * [参数选项](chapter6/6-1.md)
+  * [crushmap相关操作](chapter6/6-2.md)
+  * [实例](chapter6/6-3.md)
 
