@@ -22,19 +22,19 @@ ceph版本：jewel（10.2.5）
 
 ## 章节计划
 
-一、集群部署
+[一、集群部署](chapter1/README.md)
 
-二、操作OSD
+[二、操作OSD](chapter2/README.md)
 
-三、操作集群
+[三、操作集群](chapter3/README.md)
 
-四、操作PG
+[四、操作PG](chapter4/README.md)
 
-五、操作POOL
+[五、操作POOL](chapter5/README.md)
 
-六、管理Crushmap
+[六、管理Crushmap](chapter6/README.md)
 
-七、ceph的使用场景
+[七、ceph的使用场景](chapter7/README.md)
 
 * RBD
 * RGW
