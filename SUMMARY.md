@@ -17,4 +17,7 @@
   * [参数选项](chapter6/6-1.md)
   * [crushmap相关操作](chapter6/6-2.md)
   * [实例](chapter6/6-3.md)
-
+* [第七章、ceph的使用场景](chapter7/README.md)
+  * [RBD](chapter7/section1/README.md)
+    * [常规操作](chapter7/section1/7-1-1.md)
+    * [快照](chapter7/section1/7-1-2.md)
