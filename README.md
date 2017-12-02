@@ -37,7 +37,7 @@ ceph版本：jewel（10.2.5）
 [七、ceph的使用场景](chapter7/README.md)
 
 * [RBD](chapter7/section1/README.md)
-* RGW
+* [RGW](chapter7/section2/README.md)
 * ISCSI
 * NFS
 * RBD mirror

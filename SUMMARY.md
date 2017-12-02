@@ -21,3 +21,6 @@
   * [RBD](chapter7/section1/README.md)
     * [常规操作](chapter7/section1/7-1-1.md)
     * [快照](chapter7/section1/7-1-2.md)
+  * [RGW](chapter7/section2/README.md)
+    * [安装和使用](chapter7/section2/7-2-1.md)
+    * [测试及其他](chapter7/section2/7-2-2.md)
