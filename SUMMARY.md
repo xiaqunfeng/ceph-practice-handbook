@@ -24,3 +24,7 @@
   * [RGW](chapter7/section2/README.md)
     * [安装和使用](chapter7/section2/7-2-1.md)
     * [测试及其他](chapter7/section2/7-2-2.md)
+  * [ISCSI](chapter7/section3/README.md)
+    * [server和client配置](chapter7/section3/7-3-1.md)
+    * [多路径配置](chapter7/section3/7-3-2.md)
+    * [在线扩容](chapter7/section3/7-3-3.md)
