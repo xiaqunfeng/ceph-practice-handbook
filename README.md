@@ -41,7 +41,7 @@ ceph版本：jewel（10.2.5）
 * [RBD](chapter7/section1/README.md)
 * [RGW](chapter7/section2/README.md)
 * [ISCSI](chapter7/section3/README.md)
-* NFS
+* [NFS](chapter7/section4/README.md)
 * RBD mirror
 
 

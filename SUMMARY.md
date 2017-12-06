@@ -28,3 +28,7 @@
     * [server和client配置](chapter7/section3/7-3-1.md)
     * [多路径配置](chapter7/section3/7-3-2.md)
     * [在线扩容](chapter7/section3/7-3-3.md)
+  * [NFS over RBD](chapter7/section4/README.md)
+    * [准备RBD设备](chapter7/section4/7-4-1.md)
+    * [server端配置](chapter7/section4/7-4-2.md)
+    * [client端配置](chapter7/section4/7-4-3.md)
