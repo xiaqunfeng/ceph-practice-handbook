@@ -4,6 +4,6 @@
 - [**RGW**](section2/README.md)
 - [**ISCSI存储**](section3/README.md)
 - [**NFS over RBD**](section4/README.md)
-- **rbd mirror**
+- [**rbd mirror**](section5/README.md)
 
 

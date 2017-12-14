@@ -32,3 +32,8 @@
     * [准备RBD设备](chapter7/section4/7-4-1.md)
     * [server端配置](chapter7/section4/7-4-2.md)
     * [client端配置](chapter7/section4/7-4-3.md)
+  * [RBD Mirror](chapter7/section5/README.md)
+    * [相关配置](chapter7/section5/7-5-1.md)
+    * [安装rbd_mirror服务](chapter7/section5/7-5-2.md)
+    * [增加peer](chapter7/section5/7-5-3.md)
+    * [开启mirror模式](chapter7/section5/7-5-4.md)
