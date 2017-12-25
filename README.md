@@ -1,5 +1,7 @@
 # ceph分布式存储实践指南
 
+更好阅读体验请移步gitbook：https://xiaqunfeng.gitbooks.io/ceph-practice-handbook/content/
+
 ## 概述
 
 * 目的
